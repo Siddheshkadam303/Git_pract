@@ -1,2 +1,4 @@
 "# Git_pract" 
-- Hey thgerb part5h here 
+
+-hey there !
+-i resolved the conflict
